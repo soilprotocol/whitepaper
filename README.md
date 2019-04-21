@@ -1,0 +1,2 @@
+# whitepaper
+shaping the project 
